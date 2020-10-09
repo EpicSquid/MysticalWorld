@@ -1,0 +1,26 @@
+{
+  "name": "鱿鱼",
+  "icon": "mysticalworld:raw_squid",
+  "category": "cuisine",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:raw_squid",
+      "text": "可以通过宰杀$(l:creatures/squid)鱿鱼$()来掉落生鱿鱼须，可以直接生吃，但煮熟更好吃~"
+    },
+    {
+      "type": "smelting",
+      "recipe": "mysticalworld:cooked_squid",
+      "title": "烤鱿鱼",
+      "text": "想要尽情烹饪鱿鱼须，还得不断地宰杀鱿鱼，积累足够的食材才行，而熟鱿鱼又可以与其他材料相合成，最终，这一食材为我们带来了如此令人惊叹的神秘体验！"
+
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:epic_squid",
+      "title": "史诗鱿鱼",
+      "text": "史诗鱿鱼散发着不可忽视的紫色光辉！虽然造价很高，但它几乎能恢复全部的饥饿值，同时带来大量奇妙的效果。最重要的，即使你不饿也可以吃，且同样能获得效果。"
+    }
+  ]
+}
